@@ -1,4 +1,4 @@
-# README: Gene Regulatory Landscape in Alzheimer's Disease
+# Gene Regulatory Landscape in Alzheimer's Disease
 
 ## Overview
 This repository contains code and data related to the construction of a gene regulatory landscape in Alzheimer's Disease (AD). The project integrates multiple genomic datasets to identify regulatory interactions between transcription factors, cis-regulatory elements, and target genes.
